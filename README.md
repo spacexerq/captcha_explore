@@ -9,6 +9,6 @@ model.bin and model_finish.bin - pytorch model files, could be launched to test 
 
 Actually, release and relesae_test (as well as model and model_finish) have to has no difference due to just parallel testing of then on different PCs
 
-@spacexer
+@spacexerq
 
 Nikita Babich
